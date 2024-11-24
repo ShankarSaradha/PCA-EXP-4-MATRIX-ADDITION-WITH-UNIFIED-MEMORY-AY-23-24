@@ -1,6 +1,6 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>NAME: MONISH N </h3>
-<h3>REGISTER NO: 212223240097</h3>
+<h3>NAME: Shankar Saradha </h3>
+<h3>REGISTER NO: 212221240052/h3>
 <h3>EX. NO: 4</h3>
 <h3>DATE:</h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
@@ -278,7 +278,7 @@ int main(int argc, char **argv)
 ```
 
 ### WITHOUT MEMSET()
-```
+```c
 
 %%cuda
 #include <stdio.h>
